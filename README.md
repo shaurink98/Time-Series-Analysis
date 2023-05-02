@@ -6,4 +6,4 @@ This project is focused on analyzing time series data using various statistical 
 
 This project contains a Jupyter notebook, "Time_Series_Analysis.ipynb", which serves as the main hub for all the analysis. The notebook is written in Python and uses popular libraries such as NumPy, Pandas, Matplotlib, and Scikit-Learn. The notebook also includes practical examples and case studies that demonstrate how to apply time series analysis in real-world scenarios.
 
-Thank you for visiting this project, and we hope you find it helpful!
+Thank you for visiting this project!
