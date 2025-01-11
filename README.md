@@ -1,4 +1,4 @@
-# Time-Series-Analysis
+# Locomotor Activity Classification through Time Series Motion Data
 
 Welcome to the Time-Series-Analysis project! 
 
